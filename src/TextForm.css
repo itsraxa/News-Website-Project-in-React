@@ -1,0 +1,8 @@
+#textAreaLight::placeholder {
+  color: black;
+  opacity: 1;
+}
+#textAreaDark::placeholder {
+  color: white;
+  opacity: 1;
+}
